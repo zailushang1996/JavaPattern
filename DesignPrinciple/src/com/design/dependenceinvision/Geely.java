@@ -6,4 +6,13 @@ package com.design.dependenceinvision;
  */
 
 public class Geely {
+    public void studyJavaCourse() {
+        System.out.println("Geely在学习Java课程");
+    }
+
+    public void studyFECourse() {
+        System.out.println("Geely在学习FE课程");
+
+    }
+
 }
