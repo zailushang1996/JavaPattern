@@ -6,9 +6,9 @@ package com.design.dependenceinvision;
  */
 
 public class Test {
-    public static void main(String[] args) {
-        Geely geely = new Geely();
-        geely.studyFECourse();
-        geely.studyFECourse();
-    }
+//    public static void main(String[] args) {
+//        Geely geely = new Geely();
+//        geely.studyFECourse();
+//        geely.studyFECourse();
+
 }

@@ -5,14 +5,8 @@ package com.design.dependenceinvision;
  * DATE   2018/10/30
  */
 
-public class Geely {
-    public void studyJavaCourse() {
-        System.out.println("Geely在学习Java课程");
+public class Geely{
+    public void studyImoocCourse(ICourse iCourse) {
+        iCourse.studyCourse();
     }
-
-    public void studyFECourse() {
-        System.out.println("Geely在学习FE课程");
-
-    }
-
 }
